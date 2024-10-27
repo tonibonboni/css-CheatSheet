@@ -1,0 +1,32 @@
+nav{
+    padding:10px;
+    height: 200px;
+    background-color: plum;
+    color: white;
+    display: block;
+   justify-items: center;
+   
+  }
+
+  #title{
+    font-size: 60px;
+  }
+
+  #topic{
+    font-size:20px;
+  }
+
+  
+
+  footer{
+    background-color: plum;
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
+
+  #middle{
+    
+    height: 20px;
+    background-color: plum;
+  }
